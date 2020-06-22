@@ -23,6 +23,9 @@ You can use the following methods to get a collection of details unbilled commer
 
 - An invoice identifier. This identifies the invoice for which to retrieve the line items.
 
+>[!NOTE]
+>Daily-rated usage normally takes 24 hours to appear in Partner Center or to be accessed through the API.
+
 ## C\#
 
 To get the line items for the specified invoice:
